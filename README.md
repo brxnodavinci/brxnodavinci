@@ -42,5 +42,4 @@
   <a href="https://www.linkedin.com/in/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"/>
   <a href="https://www.youtube.com/channel/UCYTueGTar0BDGKEYCyu0SCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=dark"/>
   <a href="https://dev.to/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=dark"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
