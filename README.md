@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Breno Oliveira</h1>
 
 </div>
-<img align="right" height="606em" src="https://i.pinimg.com/originals/a2/e0/f3/a2e0f31030cd20e520883d0cc12f48f0.gif"/>
+<img align="right" height="603em" src="https://i.pinimg.com/originals/a2/e0/f3/a2e0f31030cd20e520883d0cc12f48f0.gif"/>
 </div>
 
 ### My nick in games is "Mxnshins/Brxnin"!
