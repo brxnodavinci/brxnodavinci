@@ -32,7 +32,7 @@
 <div>
   <a href="https://github.com/brxnodavinci">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=brxnodavinci&repo=nlw-esports-explorer&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=brxnodavinci&repo=brxnodavinci.github.io&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=brxnodavinci&repo=myteacher&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
 </div>
 
 ##
