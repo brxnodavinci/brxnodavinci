@@ -19,7 +19,7 @@
 
 - 📫 How to contact me: brxnodavinci@gmail.com
 
-> Discord: .mnsh#0468
+> Discord: obrenobtw
 
 </div>
   <a href="https://github.com/brxnodavinci">
