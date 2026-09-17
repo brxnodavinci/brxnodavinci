@@ -23,22 +23,10 @@ Software Development student (Systems Analysis & Development) based in Belo Hori
 
 </div>
   <a href="https://github.com/brxnodavinci">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=brxnodavinci&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxnodavinci&layout=compact&theme=radical"/>
+  <img height="145em" src="https://github-stats-extended.vercel.app/api?username=brxnodavinci&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
+  <img height="130em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brxnodavinci&layout=compact&theme=radical"/>
 </div>
-
-##
-
-<div>
-  <a href="https://github.com/brxnodavinci">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=brxnodavinci&repo=nlw-esports-explorer&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=brxnodavinci&repo=myteacher&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
-</div>
-
-##
 
 <div style="display: inline_block">
-  <a href="mailto:brnoboliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/brxnodavinci(https://www.linkedin.com/in/brenoboliver/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"/>
   <a href="https://dev.to/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=dark"/>
 </div>
