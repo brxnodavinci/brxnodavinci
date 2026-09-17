@@ -5,21 +5,21 @@
 <img align="right" height="603em" src="https://i.pinimg.com/originals/a2/e0/f3/a2e0f31030cd20e520883d0cc12f48f0.gif"/>
 </div>
 
-### My nick in games is "Mxnshins/Brxnin"!
+Software Development student (Systems Analysis & Development) based in Belo Horizonte, Brazil. Focused on backend logic, data handling, and integrating modern AI tools and automation pipelines into real-world applications.
 
-- 🔥 Student Front-End/Back-End
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript (ES6+), Python, SQL (PostgreSQL), HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, REST APIs, n8n, Node.js (basics)
+- **Methodologies & Quality:** Software Testing (Functional, Regression, Exploratory), Clean Code, Agile/Scrum
 
-- 🔭 Currently studying HTML/CSS/JS and more.
+### 🔭 Currently Working On
+- Developing web applications and API integrations with JavaScript and Python.
+- Exploring LLM integrations, prompt engineering, and automation workflows.
+- Refining testing routines and documentation for scalable solutions.
 
-- 👾 Exploring the ***system***
-
-- 🛠️ I Started programming now
-
-- ⚡ I'm fascinated by movies and cinema (mostly from heroes)
-
-- 📫 How to contact me: brxnodavinci@gmail.com
-
-> Discord: obrenobtw
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/brenoboliver](https://www.linkedin.com/in/brenoboliver/)
+- **Email:** brnoboliveira@gmail.com
 
 </div>
   <a href="https://github.com/brxnodavinci">
@@ -38,9 +38,7 @@
 ##
 
 <div style="display: inline_block">
-  <a href="mailto:brxnodavinci@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"/>
- <a href="https://twitter.com/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <a href="https://www.youtube.com/channel/UCYTueGTar0BDGKEYCyu0SCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=dark"/>
+  <a href="mailto:brnoboliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/brxnodavinci(https://www.linkedin.com/in/brenoboliver/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"/>
   <a href="https://dev.to/brxnodavinci" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=dark"/>
 </div>
